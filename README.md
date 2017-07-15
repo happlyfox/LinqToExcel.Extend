@@ -1,4 +1,12 @@
-# Fox.LinqToExcel.Extend
+# LinqToExcel.Extend使用
+
+使用LinqToExcel.Extend到你的项目
+
+NuGet
+
+您可以使用NuGet来快速地将LinqToExcel.Extend添加到您的项目中。只需搜索LinqToExcel.Extend并安装软件包。或者使用指令 install-package LinqToExcel.Extend
+
+# LinqToExcel.Extend
 LinqToExcel没有包含验证，在无法保证客户提供的Excel数据规范的前提下容易发生错误。所以对其进行扩展。主要扩展方向为验证，验证包含俩点
 
 1.默认验证参数有效性
